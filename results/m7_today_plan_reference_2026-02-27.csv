@@ -1,0 +1,8 @@
+ticker,latest_daily_date,last_close,predicted_today_date,predicted_today_close,weighted_signal,opinion,suggested_buy_price,suggested_sell_price,target_return_pct,target_price,stop_loss_pct,stop_loss_price,sell_timing_rule,strategy_version,c_scale
+AAPL,2026-02-26,272.7,2026-02-27,271.7,0.0,HOLD,,,,,,,목표가 도달 또는 손절가 이탈 또는 앙상블 신호 -1,reference_v1_regime_voltarget,0.0
+AMZN,2026-02-26,206.35,2026-02-27,206.7,0.0,HOLD,,,,,,,목표가 도달 또는 손절가 이탈 또는 앙상블 신호 -1,reference_v1_regime_voltarget,0.0
+GOOGL,2026-02-26,305.99,2026-02-27,307.0463268794481,-0.013191496817107736,HOLD,,,,,,,목표가 도달 또는 손절가 이탈 또는 앙상블 신호 -1,reference_v1_regime_voltarget,3.0
+META,2026-02-26,651.0,2026-02-27,652.3301,0.0,HOLD,,,,,,,목표가 도달 또는 손절가 이탈 또는 앙상블 신호 -1,reference_v1_regime_voltarget,0.0
+MSFT,2026-02-26,396.54,2026-02-27,397.4,0.0,HOLD,,,,,,,목표가 도달 또는 손절가 이탈 또는 앙상블 신호 -1,reference_v1_regime_voltarget,0.0
+NVDA,2026-02-26,183.03,2026-02-27,186.53429064400905,0.771166486867789,BUY,182.66394,,5.1477965247952415,192.06710795537407,3.431864349863494,176.39516136308396,목표가 도달 또는 손절가 이탈 또는 앙상블 신호 -1,reference_v1_regime_voltarget,2.0
+TSLA,2026-02-26,406.0618,2026-02-27,404.57919594550333,0.06096179469059769,HOLD,,,,,,,목표가 도달 또는 손절가 이탈 또는 앙상블 신호 -1,reference_v1_regime_voltarget,3.0

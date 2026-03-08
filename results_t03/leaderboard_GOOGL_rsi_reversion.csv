@@ -1,0 +1,4 @@
+strategy,params,train_total_return_pct,valid_total_return_pct,valid_sharpe,score
+rsi_reversion,"{'period': 14, 'oversold': 25.0, 'overbought': 70.0}",51.84386815451203,0.0,0.0,0.0
+rsi_reversion,"{'period': 14, 'oversold': 30.0, 'overbought': 70.0}",62.88094648945013,0.0,0.0,0.0
+rsi_reversion,"{'period': 21, 'oversold': 30.0, 'overbought': 75.0}",158.30276778105147,0.0,0.0,0.0

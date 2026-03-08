@@ -1,0 +1,2 @@
+ticker,interval,last_bar_time,last_close,predicted_next_30m_close,predicted_return_pct,opinion
+NQ=F,60m,2026-02-27 12:00:00,24954.0,24954.0,-0.0,HOLD

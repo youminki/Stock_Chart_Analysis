@@ -1,0 +1,4 @@
+strategy,params,train_total_return_pct,valid_total_return_pct,valid_sharpe,score
+bollinger_reversion,"{'window': 30, 'num_std': 2.0}",149.61157027578454,32.4811727391149,0.9561059984618338,31.05544409294275
+bollinger_reversion,"{'window': 20, 'num_std': 2.0}",125.58943654514225,7.462631816063148,0.3732308763244581,2.785284612396031
+bollinger_reversion,"{'window': 20, 'num_std': 2.5}",27.482816661836694,6.479514151207821,0.34996068035314504,2.26757518071452

@@ -1,0 +1,6 @@
+strategy,params,train_total_return_pct,valid_total_return_pct,valid_sharpe,score
+sma,"{'short_window': 15, 'long_window': 90}",261.2364034983243,-4.584396984770278,-0.23223174451438916,0.0
+sma,"{'short_window': 10, 'long_window': 60}",221.96172005832082,-7.719412533390657,-0.3690195505141154,0.0
+sma,"{'short_window': 10, 'long_window': 90}",301.1031071092594,-9.400151330269402,-0.5569289372978175,0.0
+sma,"{'short_window': 15, 'long_window': 40}",438.29707111266066,-10.712891070865037,-0.5818714599518954,0.0
+sma,"{'short_window': 10, 'long_window': 40}",295.82018127026447,-10.771904811028177,-0.5837778979696475,0.0
